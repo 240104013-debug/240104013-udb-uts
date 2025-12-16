@@ -1,7 +1,7 @@
 # UTS Praktikum Docker & Database
 
 ## Nama & NIM Mahasiswa
-Nama : Yusuf Rizal  
+Nama : Yusuf Rizal Indrianto  
 NIM  : 240104013  
 
 ---
