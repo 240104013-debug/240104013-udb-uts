@@ -32,3 +32,11 @@ Project ini diakses melalui jaringan ZeroTier.
 4. Jalankan dengan command : docker compose up -d
 5. Kemudian cek docker dengan command : docker ps
 
+##screnshots
+![docker ps](screenshots/docker-ps-real.png)
+
+![Login Adminer ke MySQL](screenshots/hasil-mysql.png)
+
+![Login Adminer ke PostgreSQL](screenshots/hasil-postgress.png)
+
+![Login adminer](screenshots/adminer.png)
