@@ -27,8 +27,7 @@ Project ini diakses melalui jaringan ZeroTier.
 1. Pastikan Docker dan Docker Compose sudah terpasang
 2. Pastikan ZeroTier sudah terinstall dan device sudah join network
 3. Masuk ke direktori project:
- ```bash
- cd 240104013-udb-uts```
+ ```bash cd 240104013-udb-uts```
 4. Jalankan dengan command : docker compose up -d
 5. Kemudian cek docker dengan command : docker ps
 
