@@ -33,6 +33,17 @@ Project ini diakses melalui jaringan ZeroTier.
 5. Kemudian cek docker dengan command : docker ps
 
 ##screnshots
+### 1. Docker Container Berjalan (`docker ps`)
+![Docker PS](docker-ps.png)
+
+### 2. Adminer Diakses via IP ZeroTier
+![Adminer ZeroTier](adminer-zerotier.png)
+
+### 3. Login Adminer ke MySQL
+![Login MySQL](login-mysql.png)
+
+### 4. Login Adminer ke PostgreSQL
+![Login PostgreSQL](login-postgres.png)
 ![docker ps](screenshots/docker-ps-real.png)
 
 ![Login Adminer ke MySQL](screenshots/hasil-mysql.png)
